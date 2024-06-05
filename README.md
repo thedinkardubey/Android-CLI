@@ -1,6 +1,6 @@
 # Android CLI
 
-Android CLI is a terminal emulator app built with React Native that allows users to execute various commands on their Android device's file system.
+[Android CLI](https://thedinkardubey.github.io/Android-CLI-Website/) is a terminal emulator app built with React Native that allows users to execute various commands on their Android device's file system.
 
 ## Features
 
